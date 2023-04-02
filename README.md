@@ -9,13 +9,15 @@
 <div align="left">
 <h3>📚 Tech Stack 📚</h3>
 <p>
-    <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=00599C"/></a>&nbsp
-    <img src="https://img.shields.io/badge/C sharp-007396?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=C711E1"/></a>&nbsp
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalkCoding&layout=compact&theme=tokyonight)
+<h3>📖 Studying Stack 📖</h3>
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalkCoding&layout=compact&theme=tokyonight) 
 <h3>🌈 Follow Me 🌈</h3>
 <p>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
