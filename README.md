@@ -6,6 +6,7 @@
 <h3>
 
 <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji>Solved.ac Tier
+<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salk1104)](https://solved.ac/salk1104)
 </h3>
 </div>
