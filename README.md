@@ -6,7 +6,7 @@
 
 [![Solved.ac스트릭](http://mazandi.herokuapp.com/api?handle=salk1104&theme=warm)](https://solved.ac/salk1104)
 
-![hug-me](/SalkCoding/resource/hug-me.jpg)
+![hug-me](https://user-images.githubusercontent.com/27879670/232321929-c340b1b7-eca3-4769-a525-dd5501c5968b.jpg)
 
 <div align="left">
 <h3>📚 Tech Stack 📚</h3>
