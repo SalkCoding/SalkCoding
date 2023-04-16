@@ -3,8 +3,10 @@
 </h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salk1104)](https://solved.ac/salk1104)
+
 [![Solved.ac스트릭](http://mazandi.herokuapp.com/api?handle=salk1104&theme=warm)](https://solved.ac/salk1104)
 
+[hug-me](/SalkCoding/resource/hug-me.webp)
 
 <div align="left">
 <h3>📚 Tech Stack 📚</h3>
