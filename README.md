@@ -6,7 +6,7 @@
 
 [![Solved.ac스트릭](http://mazandi.herokuapp.com/api?handle=salk1104&theme=warm)](https://solved.ac/salk1104)
 
-![hug-me](https://user-images.githubusercontent.com/27879670/232321929-c340b1b7-eca3-4769-a525-dd5501c5968b.jpg)
+![jerry_gif](https://github.com/SalkCoding/SalkCoding/assets/27879670/e8c27b40-f268-4c41-bac1-4a38f999a34b)
 
 <div align="left">
 <h3>📚 Using Programming Language 📚</h3>
