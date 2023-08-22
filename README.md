@@ -1,12 +1,17 @@
+<h1>Thanks for visiting!</h1>
+
+![jerry_gif](https://github.com/SalkCoding/SalkCoding/assets/27879670/e8c27b40-f268-4c41-bac1-4a38f999a34b)
+
 <h3>
 <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji>Solved.ac Tier🏅
 </h3>
 
+<div align="left" float="left">
+    
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salk1104)](https://solved.ac/salk1104)
-
+    
 [![Solved.ac스트릭](http://mazandi.herokuapp.com/api?handle=salk1104&theme=warm)](https://solved.ac/salk1104)
-
-![jerry_gif](https://github.com/SalkCoding/SalkCoding/assets/27879670/e8c27b40-f268-4c41-bac1-4a38f999a34b)
+</div>
 
 <div align="left">
 <h3>📚 Using Programming Language 📚</h3>
