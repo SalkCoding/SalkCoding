@@ -12,7 +12,7 @@
 
 🤔What is the most used language?🤔
 
-![Top Langs](https://github-readme-stats-salkcoding.vercel.app/api/top-langs/?username=SalkCoding&layout=compact&theme=tokyonight) 
+![Top Langs](https://github-readme-stats-unexpired.vercel.app/api/top-langs/?username=SalkCoding&layout=compact&theme=tokyonight) 
 
 <div align="left">
     <h3>📚 Using Programming Language 📚</h3>
