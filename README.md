@@ -4,15 +4,6 @@
   <img src="https://render.gitanimals.org/farms/SalkCoding"/>
 </a>
 
-### <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji>Solved.ac Tier🏅
-
-    
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=salk1104)](https://solved.ac/salk1104)
-
-🤔What is the most used language?🤔
-
-![Top Langs](https://github-readme-stats-unexpired.vercel.app/api/top-langs/?username=SalkCoding&layout=compact&theme=tokyonight) 
-
 ### 📚 I'd experienced these 📚
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring JPA](https://img.shields.io/badge/spring%20jpa-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
@@ -21,6 +12,11 @@
 
 ### 📖 Now I'm studying these... 📖
 ![Amazon Web Services](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji>Solved.ac🏅
+
+    
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=salk1104)](https://solved.ac/salk1104)
 
 
 ### 🌈 Follow Me 🌈
